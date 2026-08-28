@@ -1,12 +1,12 @@
 VertexLitGeneric
 {
-	"$basetexture"				"models\arodeum\hl2weapons\v_colt_python\python_d"
-	"$bumpmap"					"models\arodeum\hl2weapons\v_colt_python\python_n"
-	"$phongexponenttexture"		"models\arodeum\hl2weapons\v_colt_python\python_e"
+	"$basetexture"				"models/arodeum/hl2weapons/v_colt_python/python_d"
+	"$bumpmap"					"models/arodeum/hl2weapons/v_colt_python/python_n"
+	"$phongexponenttexture"		"models/arodeum/hl2weapons/v_colt_python/python_e"
 	"$color2"					"[0.35 0.35 0.35]"
 	"$blendTintByBaseAlpha"		"1"
 
-	$detail						"models\arodeum\hl2weapons\v_colt_python\python_si"
+	$detail						"models/arodeum/hl2weapons/v_colt_python/python_si"
     $detailscale                1
    	$detailblendfactor 			3
    	$detailblendmode			5
