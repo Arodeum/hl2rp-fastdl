@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\arodeum\hl2weapons\v_glock17/v_glocky"
+	"$bumpmap" "models\arodeum\hl2weapons\v_glock17/v_glocky_normal"
+       	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]"
+	"$selfillum" 1
+	"$nocull" "1"
+	"$halflambert" "1"
+}
