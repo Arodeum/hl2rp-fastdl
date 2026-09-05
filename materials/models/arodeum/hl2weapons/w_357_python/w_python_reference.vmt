@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/arodeum/hl2weapons/w_357_python/w_python_reference"
+	"$bumpmap" "models/arodeum/hl2weapons/w_357_python/w_python_reference_normal"
+	"$envmap" "env_cubemap" 
+	$normalmapalphaenvmapmask 1
+}

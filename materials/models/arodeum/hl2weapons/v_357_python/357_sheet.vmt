@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$baseTexture "models\arodeum\hl2weapons\v_357_python/357_sheet"
+$bumpmap "models\arodeum\hl2weapons\v_357_python/357_normal"
+$phong 1
+$phongboost 4
+$phongexponent 120
+$phongfresnelranges "[.6 1 2]"
+$normalmapalphaphongmask 1
+
+	"$normalmapalphaenvmapmask" 1
+$envmap env_cubemap
+$envmapfresnel 1
+//$envmapsaturation .5
+//$envmaptint "[0.5 0.5 0.5]" 
+
+$phongalbedotint 1
+$selfillum 1
+}
