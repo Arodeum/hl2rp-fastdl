@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models/arodeum/hl2weapons/w_357_python/w_357"
+	"$baseTexture" "models/arodeum/hl2weapons/w_357_python/w_357_a"
 	"$surfaceprop" "metal"
 	"$envmap" "env_cubemap"
 	"$basealphaenvmapmask" 1
