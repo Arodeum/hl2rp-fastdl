@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\arodeum\hl2models\hla_combine_soldier\Elite_body_a_d"
+	"$bumpmap" "models\arodeum\hl2models\hla_combine_soldier\Elite_body_a_n"
+	
+//Specular
+	"$envmap" "env_cubemap"
+	"$envmaptint"			"[.1 .1 .1]"	
+//	"$normalmapalphaenvmapmask"	"1"
+	"$envmapfresnel"			"1"
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongExponentTexture " 		                    "models\arodeum\hl2models\hla_combine_soldier\Elite_body_a_e"
+	"$PhongBoost"               "9"
+	"$PhongFresnelRanges"	    "[.05 .1 .95]"
+	"$PhongDisableHalfLambert"  "1"
+
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "metal"
+	"$BlendTintByBaseAlpha"     "1"
+	"$Color2"					"[0.4 0.4 0.4]"
+}
