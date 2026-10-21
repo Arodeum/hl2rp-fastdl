@@ -1,0 +1,40 @@
+"VertexlitGeneric"
+{
+//Basic
+	"$basetexture" 		"models\arodeum\hl2models\hla_combine_soldier\Regular_helmet_shotgun_d"
+	"$bumpmap" 		"models\arodeum\hl2models\hla_combine_soldier\Regular_helmet_n"
+
+//Specular
+	"$envmap" "env_cubemap"
+	"$envmaptint"			"[.1 .1 .1]"
+	"$envmapfresnel"			"1"
+//	"$normalmapalphaenvmapmask"	"1"
+
+//Detail
+	"$detail"					"models\arodeum\hl2models\hla_combine_soldier\Regular_helmet_shotgun_glow"
+	"$detailscale"				"1"
+	"$detailblendfactor"		"1"
+	"$detailblendmode"		"5"
+	"$detailblendfactor" 	"4.0"
+
+//Phong
+	"$Phong"				    "1"
+	"$PhongExponentTexture " 		                    "models\arodeum\hl2models\hla_combine_soldier\Regular_helmet_e"
+	"$PhongBoost"               "2"
+	"$PhongFresnelRanges"	    "[0.25 0.5 1]"
+	"$PhongDisableHalfLambert"  "1"
+//	"$PhongAlbedoTint"          "1"
+
+//Warp
+//	"$PhongWarpTexture"         "models\arodeum\hl2models\hla_combine_soldier\phongwarp_metal2"
+
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "1"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "metal"
+	"$BlendTintByBaseAlpha"     "1"
+	"$Color2"					"[0.4 0.4 0.4]"
+
+}
